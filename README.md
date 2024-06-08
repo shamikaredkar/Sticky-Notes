@@ -1,9 +1,6 @@
 # Sticky Notes App
 
 ![Sticky Notes App Demo](https://github.com/yourusername/sticky-notes-app/blob/main/Preview/Preview1.png)
-![Sticky Notes App Demo](https://github.com/yourusername/sticky-notes-app/blob/main/Preview/Preview2.png)
-![Sticky Notes App Demo](https://github.com/yourusername/sticky-notes-app/blob/main/Preview/Preview3.png)
-![Sticky Notes App Demo](https://github.com/yourusername/sticky-notes-app/blob/main/Preview/Preview4.png)
 
 ## Purpose
 
